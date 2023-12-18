@@ -1,0 +1,35 @@
+_repo: Propos-sur-le-christianisme_72145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alain
+    aliases:
+    - Chartier, Émile
+    - Criton
+    - Chartier, Emile-Auguste
+    birthdate: 1868
+    deathdate: 1951
+    gutenberg_agent_id: '56489'
+    url: http://www.gutenberg.org/2009/agents/56489
+    wikipedia: https://fr.wikipedia.org/wiki/Alain_(philosophe)
+description: ''
+gutenberg_issued: '2023-11-16'
+identifiers:
+  gutenberg: '72145'
+language: fr
+pgterms:marc904: https://polona.pl/preview/a3f81452-3ad3-40d0-b154-f56b72243418
+pgterms:marc905: 20231107145225alain
+pgterms:marc906: '1924'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bRieder, $c1924, pubdate 1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity'
+- !lcc 'BR'
+- GITenberg
+title: Propos sur le christianisme
+url: http://www.gutenberg.org/ebooks/72145
