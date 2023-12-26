@@ -1,5 +1,8 @@
 _repo: Propos-sur-le-christianisme_72145
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72145-h/images/cover.jpg
 creator:
   author:
     agent_name: Alain
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56489
     wikipedia: https://fr.wikipedia.org/wiki/Alain_(philosophe)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72145#Propos-sur-le-christianisme
 gutenberg_issued: '2023-11-16'
 identifiers:
   gutenberg: '72145'
